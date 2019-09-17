@@ -1,4 +1,5 @@
 # Mark Guerin
+#Quiz program
 print("Welcome to this short quiz.")
 print("Type two numbers whose sum is 7.")
 num1 = int(input("Type first number: "))
